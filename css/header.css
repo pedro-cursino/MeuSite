@@ -1,0 +1,15 @@
+header section {
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+header nav ul li a {
+  margin: 0px 15px;
+  color: #fff;
+}
