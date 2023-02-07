@@ -15,11 +15,6 @@
 }
 
 @media (max-width: 915px) {
-  body {
-    background-position: right top;
-    background-color: #b1f4ff;
-  }
-
   .container {
     width: 600px;
   }
